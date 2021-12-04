@@ -1,4 +1,4 @@
-    titleWeb: "Gửi cụcc vvv cưngg cụaaa anhhh",
+    titleWeb: "Gửi cụcc cưngg cụaaa anhhh",
     introTitle: 'Trầnnn Ngọccc Nhiii cụaâ anhh',
     introDesc: `Humm queee béee nhớ mốttt gẹppp béee chơm anhhh ùii íiii nhoooo`,
     btnIntro: 'Nhớ gòiiiii -.-',
@@ -12,6 +12,6 @@
     mess: 'Híiii híiii ỏoo yêuuu béee quớ iiiiii 😘😘',
     messDesc: 'Dạaâ úuu kiiii laaaa dịii hhh ngoannn iiii ăn trưaaa mốttt gẹppp anhh gòiii hunn anhhh nhooo',
     btnAccept: 'Okiiiii lunnn <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100022433310168/
 } 
 }
