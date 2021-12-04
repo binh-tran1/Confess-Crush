@@ -1,7 +1,7 @@
     titleWeb: "Gửi cụcc cưngg cụaaa anhhh",
     introTitle: 'Trầnnn Ngọccc Nhiii cụaâ anhh',
     introDesc: `Humm queee béee nhớ mốttt gẹppp béee chơm anhhh ùii íiii nhoooo`,
-    btnIntro: 'Nhớ gòiiiii -.-',
+    btnIntro: 'Nhớ gòiiiiii -.-',
     title: 'Híiii híiii dòngg ngừiii vộiii vàngg bướccc queee 🥰',
     desc: 'Ngừiiii nóiiii gòiiii hìiii nhớ nèmmm nhoooo 🙆 ',
     btnYes: 'Dạaaaa 🥰',
