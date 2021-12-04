@@ -1,4 +1,4 @@
-    titleWeb: "Gửi cụcc cưngg cụaaa anhhh",
+    titleWeb: "Gửi cụcc vvv cưngg cụaaa anhhh",
     introTitle: 'Trầnnn Ngọccc Nhiii cụaâ anhh',
     introDesc: `Humm queee béee nhớ mốttt gẹppp béee chơm anhhh ùii íiii nhoooo`,
     btnIntro: 'Nhớ gòiiiii -.-',
